@@ -1,6 +1,6 @@
 # Mini Magick Old Versions
 
-Variations of the "each" command
+Resolve application issues using old minimagic whose repository has been removed
 
 
 ## Installation
